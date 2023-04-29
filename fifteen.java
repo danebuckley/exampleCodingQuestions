@@ -15,10 +15,7 @@ class Fifteen {
         numLetters.put("7", "pqrs");
         numLetters.put("8", "tuv");
         numLetters.put("9", "wxyz");
-
-        ArrayList<String> currentLetters = new ArrayList<>();
-        //charAt()
-
+        
         //Zero digit case
         if (digits.length() == 0) {
             return finalList;

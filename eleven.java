@@ -1,4 +1,4 @@
-class Solution {
+class Eleven {
     public int maxArea(int[] height) {
         int max = 0;
         int Lo = 0;

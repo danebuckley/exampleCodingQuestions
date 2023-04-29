@@ -1,7 +1,10 @@
 import java.util.*;
 
+//Needs to be optimized
+//This program converts integer to roman numeral
 
-class Solution {
+
+class Twelve {
     static Dictionary<Integer, String> tensTable = new Hashtable<>();
 
     public String intToRoman(int num) {
